@@ -21,6 +21,7 @@ class _MyDrawerState extends State<MyDrawer> {
       ),
       drawer: Drawer(
         child: ListView(
+          physics: BouncingScrollPhysics(),
           children: [
             DrawerHeader(
                 child: CircleAvatar(

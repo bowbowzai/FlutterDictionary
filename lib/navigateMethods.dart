@@ -48,7 +48,7 @@ class NavigateMethods {
                   decription:
                       'This is a widget used to clip a round import. You can specify the radius of the corner in the borderRadius property of this widget. while you can not resize it in an image with rounded corners without this widget container widget decoration properties.',
                   url:
-                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/common/circular_progress_indicator.dart',
+                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/common/clip_r_rect.dart',
                   content: MyClipRRect(),
                 )));
   }
@@ -62,7 +62,7 @@ class NavigateMethods {
                   decription:
                       'A card is a sheet of Material used to represent some related information, for example an album, a geographical location, a meal, contact details, etc.',
                   url:
-                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/common/circular_progress_indicator.dart',
+                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/sometime/card.dart',
                   content: MyCard(),
                 )));
   }
@@ -76,7 +76,7 @@ class NavigateMethods {
                   decription:
                       'An alert dialog informs the user about situations that require acknowledgement. An alert dialog has an optional title and an optional list of actions. The title is displayed above the content and the actions are displayed below the content.',
                   url:
-                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/common/circular_progress_indicator.dart',
+                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/sometime/dialogs.dart',
                   content: MyAlertDialog(),
                 )));
   }
@@ -90,7 +90,7 @@ class NavigateMethods {
                   decription:
                       'It can be useful to briefly inform your users when certain actions take place. For example, when a user swipes away a message in a list, you might want to inform them that the message has been deleted. You might even want to give them an option to undo the action.',
                   url:
-                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/common/circular_progress_indicator.dart',
+                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/sometime/snack_bar.dart',
                   content: MySnackBar(),
                 )));
   }
@@ -104,7 +104,7 @@ class NavigateMethods {
                   decription:
                       'GridView is a widget in Flutter that displays the items in a 2-D array (two-dimensional rows and columns). As the name suggests, it will be used when we want to show items in a Grid. We can select the desired item from the grid list by tapping on them.',
                   url:
-                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/common/circular_progress_indicator.dart',
+                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/sometime/grid_view.dart',
                   content: MyGridView(),
                 )));
   }
@@ -118,7 +118,7 @@ class NavigateMethods {
                   decription:
                       'A widget that by default does a cross-fade between a new widget and the widget previously set on the AnimatedSwitcher as a child.',
                   url:
-                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/common/circular_progress_indicator.dart',
+                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/rarely/animated_switcher.dart',
                   content: MyAnimatedSwitcher(),
                 )));
   }
@@ -132,7 +132,7 @@ class NavigateMethods {
                   decription:
                       'Drawers are typically used with the Scaffold.drawer property. The child of the drawer is usually a ListView whose first child is a DrawerHeader that displays status information about the current user. The remaining drawer children are often constructed with ListTiles, often concluding with an AboutListTile.',
                   url:
-                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/common/circular_progress_indicator.dart',
+                      'https://github.com/bowbowzai/FlutterDictionary/blob/main/lib/views/rarely/drawer.dart',
                   content: MyDrawer(),
                 )));
   }

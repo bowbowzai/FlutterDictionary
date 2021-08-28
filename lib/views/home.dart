@@ -22,6 +22,7 @@ class _HomeState extends State<Home> {
       body: Container(
           padding: EdgeInsets.all(10),
           child: ListView.builder(
+              physics: BouncingScrollPhysics(),
               itemCount: itemData.length,
               itemBuilder: (context, index) {
                 return Container(
