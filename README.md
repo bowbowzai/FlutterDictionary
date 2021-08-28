@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="https://github.com/bowbowzai/FlutterDictionary/blob/main/assets/images/Screenshot_1630136910.png" width="50" height="100"/>
+<img src="https://github.com/bowbowzai/FlutterDictionary/blob/main/assets/images/Screenshot_1630136910.png" width="200" height="400"/>
 
 ## Getting Started
 
