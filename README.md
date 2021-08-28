@@ -1,8 +1,11 @@
 # flutter_encyclopedic
 
-A new Flutter project.
+A Flutter App for Flutter beginners like me;
 
 <img src="https://github.com/bowbowzai/FlutterDictionary/blob/main/assets/images/Screenshot_1630136910.png" width="200" height="400"/>
+<img src="https://github.com/bowbowzai/FlutterDictionary/blob/main/assets/images/Screenshot_1630136939.png" width="200" height="400"/>
+<img src="https://github.com/bowbowzai/FlutterDictionary/blob/main/assets/images/Screenshot_1630136941.png" width="200" height="400"/>
+<img src="https://github.com/bowbowzai/FlutterDictionary/blob/main/assets/images/Screenshot_1630136948.png" width="200" height="400"/>
 
 ## Getting Started
 
