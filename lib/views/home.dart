@@ -79,7 +79,6 @@ List<ItemModel> itemData = [
   ItemModel(headerItem: 'Sometimes', content: sometimesContent),
   ItemModel(headerItem: 'Rarely', content: rarelyContent),
 ];
-
 List<Icon> iconData = [
   Icon(
     Icons.auto_awesome,
@@ -104,16 +103,18 @@ List<Map<String, dynamic>> commonContent = [
     'name': 'CircularProgressIndicator',
     'function': NavigateMethods().goToCircularProgressIndicator
   },
-  {'name': 'ClipRRect', 'function': NavigateMethods().goToAppBar}
+  {'name': 'ClipRRect', 'function': NavigateMethods().goToClipRRect}
 ];
 List<Map<String, dynamic>> sometimesContent = [
-  {'name': 'Cards', 'function': NavigateMethods().goToAppBar},
-  {'name': 'Dialogs', 'function': NavigateMethods().goToAppBar},
-  {'name': 'Snackbar', 'function': NavigateMethods().goToAppBar},
-  {'name': 'GridView', 'function': NavigateMethods().goToAppBar}
+  {'name': 'Cards', 'function': NavigateMethods().goToCard},
+  {'name': 'AlertDialog', 'function': NavigateMethods().goToAlertDialog},
+  {'name': 'Snackbar', 'function': NavigateMethods().goToSnackbar},
+  {'name': 'GridView', 'function': NavigateMethods().goToGridView}
 ];
 List<Map<String, dynamic>> rarelyContent = [
-  {'name': 'AnimatedSwitcher', 'function': NavigateMethods().goToAppBar},
-  {'name': 'ExpansionPanel', 'function': NavigateMethods().goToAppBar},
-  {'name': 'Drawer', 'function': NavigateMethods().goToAppBar}
+  {
+    'name': 'AnimatedSwitcher',
+    'function': NavigateMethods().goToAnimatedSwitcher
+  },
+  {'name': 'Drawer', 'function': NavigateMethods().goToDrawer}
 ];
