@@ -8,7 +8,7 @@
       </intent>
    </queries>
    <application
-        android:label="flutter_encyclopedic"
+        android:label="FlutterDictionary"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
